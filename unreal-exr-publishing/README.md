@@ -2,9 +2,9 @@
 
 ![77d64a905f176bd04d6e8d134f1292809cdda94e_3RaA.png](images/77d64a905f176bd04d6e8d134f1292809cdda94e_3RaA.png)
 
-A Nuke tool for processing multilayer EXRs rendered from Unreal Engine and preparing them for publishing.
+A Nuke tool for creating path templates for rendering to the correct Unreal output location, processing multilayer EXRs rendered from Unreal Engine, and preparing them for publishing.
 
-The main goal was to reduce render-farm load by publishing dailies from the RGBA channels only, while keeping the output paths consistent with the production pipeline for rendering directly and locally from Unreal Engine.
+The main goal was to reduce render-farm load by publishing dailies from the RGBA channels only, while keeping output paths consistent with the production pipeline for rendering directly and locally from Unreal Engine.
 
 ## Workflow
 
