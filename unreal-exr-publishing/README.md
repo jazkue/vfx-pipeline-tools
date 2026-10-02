@@ -8,7 +8,7 @@ A Nuke tool for splitting multilayer EXRs rendered from Unreal Engine into indiv
 
 ![78f8fcadfb06e0e2e0ec9baadf0bd167f911ec4a_3RaA.png](images/78f8fcadfb06e0e2e0ec9baadf0bd167f911ec4a_3RaA.png)
 
-The tool creates the required Nuke graph automatically, creating a read node based on task variables set before launching program.
+The tool creates the required Nuke graph automatically, creating a read node based on production context set before launching program.
 
 ![e0ab4e4ab53f1b5b39d328f77bc7a82c533f2b83_3RaA.jpeg](images/e0ab4e4ab53f1b5b39d328f77bc7a82c533f2b83_3RaA.jpeg)
 
@@ -38,6 +38,6 @@ Write nodes will render locally, and publish node will publish daily using RGBA 
 
 ## DEMO
 
-\[▶ Watch the demo]\(unreal-exr-publishing/videos/2024-11-25%2015-51-50\_edit.mp4)
+~
 
 Production source code is not included.
