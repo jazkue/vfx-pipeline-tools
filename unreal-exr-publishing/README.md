@@ -38,6 +38,6 @@ Write nodes will render locally, and publish node will publish daily using RGBA 
 
 ## DEMO
 
-~
+https://github.com/user-attachments/assets/fe760048-676a-4f6b-9eb0-6fff6dfdfa68
 
 Production source code is not included.
