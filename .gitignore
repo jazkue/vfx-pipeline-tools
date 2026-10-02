@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors
+.vscode/
+.idea/
+
+# Nuke
+*.autosave
+*.nk~
+
+# Temporary files
+*.tmp
+*.log
