@@ -46,4 +46,4 @@ Write nodes render the individual outputs locally, while the publishing node pub
 
 https://github.com/user-attachments/assets/fe760048-676a-4f6b-9eb0-6fff6dfdfa68
 
-Production source code is not included.
+For portfolio purposes only. Production source code is not included.
