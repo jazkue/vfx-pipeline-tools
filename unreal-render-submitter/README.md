@@ -18,7 +18,7 @@ The widget uses context such as task, version, layer, view, and colorspace to ge
 
 The Submitter also uses a Data Asset to store configuration between sessions.
 
-See [Persistent Data Assets in Unreal](/unreal-persistent-data/readme.md).
+See [Persistent Data Assets in Unreal](./unreal-persistent-data/).
 
 ## Technical focus
 
