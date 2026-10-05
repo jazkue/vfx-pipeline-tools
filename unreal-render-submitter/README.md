@@ -2,7 +2,7 @@
 
 A custom Unreal Editor widget for preparing and publishing render outputs.
 
-https://github.com/user-attachments/assets/21d6b63d-7efc-4017-aa35-74df63de97e2
+https://github.com/user-attachments/assets/328d6e2e-f842-44f4-b8ce-0f309877637f
 
 ## Workflow
 
