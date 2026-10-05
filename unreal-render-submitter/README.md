@@ -2,6 +2,8 @@
 
 A custom Unreal Editor widget for preparing and publishing render outputs.
 
+https://github.com/user-attachments/assets/21d6b63d-7efc-4017-aa35-74df63de97e2
+
 ## Workflow
 
 1. Enter the production context.
